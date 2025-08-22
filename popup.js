@@ -7,6 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const downloadButton = document.getElementById('download'); // download the action trace
     const status = document.getElementById('status'); // keep track of the status of recording across different webpages
 
+    restoreState();
+
     startButton.addEventListener('click', async ()=> {
         // Get the active tab
         const [tab] = await chrome.tabs.query({active: true, currentWindow: true});
@@ -58,4 +60,20 @@ document.addEventListener('DOMContentLoaded', () => {
         stopButton.disabled = true;
         downloadButton.disabled = true;
     });
+
+    async function restoreState() {
+        const [tab] = await chrome.tabs.query({active: true, currentWindow: true});
+        
+        chrome.tabs.sendMessage(tab.id, {action: 'getStatus'}, (response) => {
+          if (response && response.isRecording) {
+            status.textContent = 'Recording...';
+            startButton.disabled = true;
+            stopButton.disabled = false;
+          } else {
+            status.textContent = 'Ready';
+            startButton.disabled = false;
+            stopButton.disabled = true;
+          }
+        });
+      }
 });
