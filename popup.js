@@ -20,6 +20,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 status.textContent = 'Recording...';
             }
         });
+
+        startButton.disabled = true;
+        stopButton.disabled = false;
+        downloadButton.disabled = true;
     });
 
     stopButton.addEventListener('click', async ()=> {
@@ -32,7 +36,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 console.log('Stop recording response:', response);
                 status.textContent = 'Stopped';
             }
-        })
+        });
+
+        startButton.disabled = false;
+        stopButton.disabled = true;
+        downloadButton.disabled = false;
     });
 
     downloadButton.addEventListener('click', async ()=> {
@@ -45,5 +53,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 console.log('Download response:', response);
             }
         })
+
+        startButton.disabled = false;
+        stopButton.disabled = true;
+        downloadButton.disabled = true;
     });
 });
