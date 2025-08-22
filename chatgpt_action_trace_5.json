@@ -1,0 +1,375 @@
+[
+  {
+    "timestamp": 1755836358226,
+    "type": "navigate",
+    "url": "https://www.google.com/?zx=1755836356858&no_sw_cr=1"
+  },
+  {
+    "timestamp": 1755836359592,
+    "type": "navigate",
+    "url": "https://www.google.com/"
+  },
+  {
+    "type": "navigate",
+    "url": "https://chatgpt.com/",
+    "timestamp": 1755836362777
+  },
+  {
+    "type": "click",
+    "selector": ".placeholder",
+    "text": "",
+    "timestamp": 1755836365262
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "Shift",
+    "code": "ShiftLeft",
+    "ctrlKey": false,
+    "shiftKey": true,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836365762
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "W",
+    "code": "KeyW",
+    "ctrlKey": false,
+    "shiftKey": true,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836365834
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "h",
+    "code": "KeyH",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836365922
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "j",
+    "code": "KeyJ",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836365925
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "a",
+    "code": "KeyA",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836365995
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "t",
+    "code": "KeyT",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366073
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": " ",
+    "code": "Space",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366120
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "i",
+    "code": "KeyI",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366177
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "s",
+    "code": "KeyS",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366281
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": " ",
+    "code": "Space",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366312
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "t",
+    "code": "KeyT",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366341
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "h",
+    "code": "KeyH",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366405
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "e",
+    "code": "KeyE",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366434
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": " ",
+    "code": "Space",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366509
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "m",
+    "code": "KeyM",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366567
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "e",
+    "code": "KeyE",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366628
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "a",
+    "code": "KeyA",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366673
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "n",
+    "code": "KeyN",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366733
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "i",
+    "code": "KeyI",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366840
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "n",
+    "code": "KeyN",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366883
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "g",
+    "code": "KeyG",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836366943
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": " ",
+    "code": "Space",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836367005
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "o",
+    "code": "KeyO",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836367020
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "f",
+    "code": "KeyF",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836367124
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": " ",
+    "code": "Space",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836367182
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "l",
+    "code": "KeyL",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836367288
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "i",
+    "code": "KeyI",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836367352
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "f",
+    "code": "KeyF",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836367380
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "e",
+    "code": "KeyE",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836367437
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "Shift",
+    "code": "ShiftLeft",
+    "ctrlKey": false,
+    "shiftKey": true,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836367543
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "?",
+    "code": "Slash",
+    "ctrlKey": false,
+    "shiftKey": true,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836367601
+  },
+  {
+    "type": "keyboard",
+    "selector": "#prompt-textarea",
+    "key": "Enter",
+    "code": "Enter",
+    "ctrlKey": false,
+    "shiftKey": false,
+    "altKey": false,
+    "metaKey": false,
+    "timestamp": 1755836367676
+  }
+]

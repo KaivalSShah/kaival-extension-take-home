@@ -124,6 +124,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
         sendResponse({ status: 'Recording stopped' });
     } else if (request.action === 'downloadActionTrace') {
         downloadActionTrace();
+        sendResponse({ status: 'Download completed' });
     }
     else if (request.action === 'getStatus') {
         sendResponse({ isRecording: isRecording, actionTrace: actionTrace });
