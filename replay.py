@@ -5,7 +5,7 @@ from typing import Any, Dict, List, Optional, Tuple
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
 
-action_trace_path = "chatgpt_action_trace_6.json"
+action_trace_path = "action_traces/chatgpt_action_trace_6.json"
 
 with open(action_trace_path, "r") as f:
     TRACE = json.load(f)
